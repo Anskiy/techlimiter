@@ -12,4 +12,4 @@ When run, the Limiter spits out two text files. They contain the techs each char
 
 Usage:
 
-Windows users can just run the .exe file. Mac and Linux users should run techlimiter.py in the sourcefiles folder. Running it with Python 3 is recommended.
+Windows users can just run the .exe. Mac and Linux users should use Python 3 to run techlimiter.py in the sourcefiles folder.
